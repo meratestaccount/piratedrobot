@@ -24,15 +24,15 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "1653618"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "59700cdfc6ffafd6e0a5f5d2f8ec6634"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally",
-      "value": ""
+      "value": "1BVtsOK0Buyt_4Nf1m-Tg3dWHmvEuSZANW7zVqFtsnjDIFoZFgIAJ0TyXsiXoNRNwEboU_dXtAlUPlXG_g6kSvex8SHjktYoRdI-6-i_h3Tzz_Zqh7K-sy4v-e3nqJ_P8Yg_K24ZZQ4u-E5HPqtW3vso4xXY8vNCsvv5eyeXTIxJLkX9A2GtcefFfa_oOAcJeGb_5dc9kWhAiV2sR6QF0ji3W4gAcHlVnfPaFusylT7pV3RcxOhWlcvWbQQt6G04Ja0XXOGH6jDPc-eXYXrpjMlx0tFgzU2Rk3aHR3Sc5tSDC8iDE5Te8nDzZmXXhbaJF_DRBrztey2OgX-MgB1hLIXXP-psXovI="
     },
     "GITHUB_ACCESS_TOKEN": {
       "description": "Your Github Access Token for gitcommit plugin.Google 'Github access token' to find.",
@@ -51,17 +51,17 @@
     },
     "PRIVATE_GROUP_ID": {
       "description": "Make a priavte group and put its ID here. helps in PMPermit and AFK.",
-      "value": "",
+      "value": "-1001394802521",
       "required": true
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "Make a priavte group and put its ID here. helps in PMPermit and AFK. Put Same Value Of PRIVATE_GROUP_ID Here",
-      "value": "",
+      "value": "-1001394802521",
       "required": true
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "",
+      "value": "123b9ded-ffc7-4da1-b912-028a36b5be69",
       "required": false
     },
     "SUDO_USERS": {
@@ -76,7 +76,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot.Worth it. Get it.",
-      "value": "",
+      "value": "1840723409:AAGMOifa5a-GHMCCyHoXAb9AVCkLzvyzK8o",
       "required": false
     },
     "CHROME_BIN": {
@@ -91,7 +91,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the username of your bot",
-      "value": "",
+      "value": "Test144ubot",
       "required": false
     },
     "DOWNLOAD_PFP_URL_CLOCK": {
@@ -101,12 +101,12 @@
     },
     "ALIVE_NAME": {
       "description": "Your Telegram Username. ",
-      "value": "",
+      "value": "H4CK3RHERO",
       "required": false
     },
     "TZ": {
-      "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "",
+      "description": "Required for Correct Time on autopic/get time. Know your timezone from ",
+      "value": "Asia/Kolkata",
       "required": false
     }
   },
